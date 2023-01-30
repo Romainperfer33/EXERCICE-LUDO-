@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    border-style: double;
+    border-color: ghostwhite;
+   width: auto;
+}
